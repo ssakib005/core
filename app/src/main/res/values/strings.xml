@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Core</string>
+    <string name="c">C++</string>
+    <string name="content_goes_here">Content Goes Here</string>
 </resources>
